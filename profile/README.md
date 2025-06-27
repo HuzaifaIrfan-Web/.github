@@ -1,12 +1,79 @@
-## Hi there 👋
+# Hi there, I'm Huzaifa Irfan 👋
 
-<!--
+<hr />
 
-**Here are some ideas to get you started:**
+<p align="center">
+<a href="https://huzaifairfan.com" target="_blank"><img src="https://img.shields.io/badge/-huzaifairfan.com-1aa260?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/huzaifairfan/" target="_blank"><img src="https://img.shields.io/badge/-Huzaifa%20Irfan-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://github.com/HuzaifaIrfan/" target="_blank"><img src="https://img.shields.io/badge/-Huzaifa%20Irfan-4078c0?style=flat&logo=Github&logoColor=white"/></a>
+<a href="mailto:contact@huzaifairfan.com" target="_blank"><img src="https://img.shields.io/badge/-contact@huzaifairfan.com-c71610?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<hr />
+
+<p align="center">
+<a href="https://github.com/HuzaifaIrfan" target="_blank">Home</a>
+</p>
+
+## 📁 This organization hosts all web-related projects, including frontend interfaces, backend services, and full-stack applications.
+
+## 📱 Platforms
+
+<table>
+<tr>
+    <td align='center' width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg">
+    </td>
+    <td align='center' width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg">
+    </td>
+    <td align='center' width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/en/f/f4/Docker_logo.svg">
+    </td>
+    <td align='center' width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg">
+    </td>
+   <td align='center' width="200">
+     Cloud Platforms : GCP - AWS - AZURE - Firebase - Vercel - Netlify etc
+    </td>
+</tr>
+</table>
+
+## 🧑‍💻 Frameworks
+
+<table>
+<tr>
+    <td align='center' width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg">
+    </td>
+    <td align='center' width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg">
+    </td>
+    <td align='center' width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg">
+    </td>
+    <td align='center' width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg">
+    </td>
+    <td align='center' width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Next.js_wordmark.svg">
+    </td>
+</tr>
+</table>
+
+
+## 🈸 Languages
+
+<table>
+<tr>
+    <td align='center' width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
+    </td>
+     <td align='center' width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Javascript-736400_960_720.png">
+    </td>
+    <td align='center' width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/250px-Typescript.svg.png">
+    </td>
+</tr>
+</table>
