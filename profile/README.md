@@ -30,6 +30,8 @@
     <td align='center' width="200">
         <img src="https://upload.wikimedia.org/wikipedia/en/f/f4/Docker_logo.svg">
     </td>
+</tr>
+<tr> 
     <td align='center' width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg">
     </td>
@@ -52,6 +54,8 @@
     <td align='center' width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg">
     </td>
+</tr>
+<tr>
     <td align='center' width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg">
     </td>
