@@ -1,95 +1,31 @@
-# Hi there, I'm Huzaifa Irfan 👋
+# 🧑‍💻 Huzaifa Irfan 👋
+
+**`📁 This organization hosts all web-related projects, including frontend interfaces, backend services, and full-stack applications.`**
 
 <hr />
 
-<p align="center">
-<a href="https://huzaifairfan.com" target="_blank"><img src="https://img.shields.io/badge/-huzaifairfan.com-1aa260?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/huzaifairfan/" target="_blank"><img src="https://img.shields.io/badge/-Huzaifa%20Irfan-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://github.com/HuzaifaIrfan/" target="_blank"><img src="https://img.shields.io/badge/-Huzaifa%20Irfan-4078c0?style=flat&logo=Github&logoColor=white"/></a>
-<a href="mailto:hi@huzaifairfan.com" target="_blank"><img src="https://img.shields.io/badge/-hi@huzaifairfan.com-c71610?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
+[![GitHub Home](https://img.shields.io/badge/Home-%23222.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HuzaifaIrfan/)
+[![Website](https://img.shields.io/badge/Website-%23222.svg?style=for-the-badge&logo=google-chrome&logoColor==%234285F4)](https://www.huzaifairfan.com)
+[![Email](https://img.shields.io/badge/Email-%23222.svg?style=for-the-badge&logo=gmail&logoColor=%23D14836)](mailto:hi@huzaifairfan.com)
+
 
 <hr />
 
-<p align="center">
-<a href="https://github.com/HuzaifaIrfan" target="_blank">Home</a>
-</p>
-
-## 📁 This organization hosts all web-related projects, including frontend interfaces, backend services, and full-stack applications.
 
 ## 📱 Platforms
-
-<table>
-<tr>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg">
-        Browsers
-    </td>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg">
-        Linux
-    </td>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/en/f/f4/Docker_logo.svg">
-        Docker
-    </td>
-</tr>
-<tr> 
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg">
-        Kubernetes
-    </td>
-   <td align='center' width="200">
-     Cloud Platforms : GCP - AWS - AZURE - Firebase - Vercel - Netlify etc
-    </td>
-</tr>
-</table>
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ## 🧑‍💻 Frameworks
-
-<table>
-<tr>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg">
-        FastAPI
-    </td>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg">
-        Flask
-    </td>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg">
-        Django
-    </td>
-</tr>
-<tr>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg">
-        React
-    </td>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Next.js_wordmark.svg">
-        Nextjs
-    </td>
-</tr>
-</table>
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
 
 ## 🈸 Languages
-
-<table>
-<tr>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
-        Python
-    </td>
-     <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Javascript-736400_960_720.png">
-         Javascript
-    </td>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/250px-Typescript.svg.png">
-        Typescript
-    </td>
-</tr>
-</table>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
